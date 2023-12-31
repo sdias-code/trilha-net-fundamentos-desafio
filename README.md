@@ -1,6 +1,10 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+## Projeto completado By Silvio Dias Ferreira
+- Incluído validação para não permitir cadastro de placas duplicadas
+- Incluído Listagem de veículos cadastrados disponíveis para remoção
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
